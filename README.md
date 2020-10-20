@@ -26,3 +26,11 @@ CONCLUSIONS:
 
 •	The max r2 achieved for PaDEL data was: 0.642 (** The values of r2 can change at the time of run.)
 
+Team Members:
+
+1) Subhajit Pramanik - 18398 - Dept. of Economic Sciences
+
+2) Anushk Naval - 18046 - Dept. of Earth and Environmental Science
+
+3) Subhojit Pal - 18400 - Dept. of Physics.
+
