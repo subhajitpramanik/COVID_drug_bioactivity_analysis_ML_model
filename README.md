@@ -14,4 +14,10 @@ The bioactivity of the data we are calculating potency of the drug that’s the 
 
 We calculated the descriptors and fingerprint for the compounds imported and then ran different regression models to compute the bioactivity of the compounds 
 
+CONCLUSIONS:
+•	The PaDel fingerprint calculations were faster and better for predicting the bioactivity values as compared to Mordred descriptors.
+•	After running and observing different models to fit the data the decision tree regressor was better in most of the iterations for Mordred data.
+•	After running and observing different models to fit the data the voting regressor was better in most of the iterations for PaDEL data.
+•	The max r2 achieved for Mordred data was: 0.395
+•	The max r2 achieved for PaDEL data was: 0.642 (** The values of r2 can change at the time of run.)
 
