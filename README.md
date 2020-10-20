@@ -8,3 +8,10 @@ This is the report on the data and the techniques used in the project with inter
 Use Google Colab to run the file. 
 Program collects data directly from Chembl Database at the runtime.
 
+In this project our team worked on Chembl drug data, we selected the compounds that target SARS coronavirus having type – single protein from the database.
+
+The bioactivity of the data we are calculating potency of the drug that’s the amount required to produce an effect of given intensity lower the value the more the potency.
+
+We calculated the descriptors and fingerprint for the compounds imported and then ran different regression models to compute the bioactivity of the compounds 
+
+
