@@ -28,9 +28,9 @@ CONCLUSIONS:
 
 Team Members:
 
-1) Subhajit Pramanik - 18398 - Dept. of Economic Sciences
+1) Subhajit Pramanik - Dept. of Economic Sciences, IISER Bhopal
 
-2) Anushk Naval - 18046 - Dept. of Earth and Environmental Science
+2) Anushk Naval - Dept. of Earth and Environmental Science, IISER Bhopal
 
-3) Subhojit Pal - 18400 - Dept. of Physics.
+3) Subhojit Pal - Dept. of Physics, IISER Bhopal
 
