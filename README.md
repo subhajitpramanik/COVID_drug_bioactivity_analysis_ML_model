@@ -1,4 +1,4 @@
-# COVID_drug_bioactivity_analysis_ML_model
+# COVID drug bioactivity analysis by Machine Learning models.
 Bioactivity analysis machine learning model for potential COVID drug molecules
 For this project, we were asked to use and experiment with the drug dataset available at Chembl site, and to explore how to use different machine learning algorithm in a project and find pattern in data.
 We were expected gain insights and experience in data cleaning and processing using common data-mining and machine learning library.
